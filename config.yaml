@@ -12,7 +12,7 @@ make_assets:
   options:
     command: make
     locations:
-      - chapters/introduction/lecture
+      # - chapters/introduction/lecture
       # - chapters/protocol/lecture
       # - chapters/case-study/lecture/slides
       # - chapters/wallet/lecture/slides
@@ -30,7 +30,7 @@ embed_reveal:
     target: docusaurus
     extension: mdx
     build:
-      Introduction: slides/Introduction
+      # Introduction: slides/Introduction
       # Protocol: slides/protocol
       # Case-Study: slides/case-study
       # Wallet: slides/wallet
