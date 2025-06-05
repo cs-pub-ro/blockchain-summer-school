@@ -174,13 +174,9 @@ docusaurus:
     # static_assets:
     #   - slides/Compute: /build/make_assets/content/chapters/introduction/lecture/_site
     config_meta:
-      title: Blockchain Protocols and Distributed Applications
-      url: http://costincarabas.github.io/
-      baseUrl: /blockchain-protocols-and-distributed-applications/
+      title: Blockchain Summer School 2025
+      url: https://cs-pub-ro.github.io/
+      baseUrl: /blockchain-summer-school/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
-    config_socials:
-      Main site: https://ocw.cs.pub.ro/courses/fob
-      OCW: https://ocw.cs.pub.ro/courses/fob
-      Facebook: https://www.facebook.com/zuck/
-    copyright_string: Example Copyright
+    copyright_string: © 2025 University POLITEHNICA of Bucharest.
