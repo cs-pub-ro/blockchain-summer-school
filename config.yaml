@@ -24,12 +24,12 @@ make_assets:
     args:
       - all
 
-embed_reveal:
-  plugin: reveal_embed
-  options:
-    target: docusaurus
-    extension: mdx
-    build:
+# embed_reveal:
+#   plugin: reveal_embed
+#   options:
+#     target: docusaurus
+#     extension: mdx
+#     build:
       # Introduction: slides/Introduction
       # Protocol: slides/protocol
       # Case-Study: slides/case-study
