@@ -48,6 +48,7 @@ docusaurus:
     structure:
       - Introduction: chapters/README.md
       - Lectures:
+        - TODO:
         # - Introduction: /build/embed_reveal/Introduction/Introduction.mdx
             # - Blockchain Protocols: Blockchain-Protocols/Blockchain-Protocols.mdx
             # - Case Study: Case-Study/Case-Study.mdx
@@ -58,6 +59,7 @@ docusaurus:
             # - Scaling dApps: Scaling-dApps/Scaling-dApps.mdx
             # - Composability: Composability/Composability.mdx
       - Practical Sessions:
+          - TODO:
           # - Env Setup:
           #     path: chapters/introduction/lab/content/setup
           #     subsections:
