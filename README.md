@@ -9,7 +9,7 @@ Welcome to the official repository of the **Blockchain Summer School**, organize
 
 | Month       | Activities                                                                                  |
 |-------------|----------------------------------------------------------------------------------------------|
-| **June**    | **Admission: Solve the challenge and register to the Blockchain Summer School           |
+| **June**    | **Admission**: Solve the challenge and register to the Blockchain Summer School           |
 | **July**    | **Teaching activities**: 2–3 evening sessions per week to support working students           |
 | **August**  | **Development phase**: Students work on their projects with continuous support and guidance  |
 | **September**| **Project presentations**: Final demos, jury evaluation, awards, and closing ceremony        |
