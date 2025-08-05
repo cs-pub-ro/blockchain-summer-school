@@ -24,6 +24,27 @@ Welcome to the official repository of the **Blockchain Summer School**, organize
 - **Program Starts**: September 2nd, 2025
 - **Program Ends**: September 21st, 2025
 
+### 🎯 Admission Challenge
+
+To demonstrate your commitment and basic blockchain knowledge, complete this challenge:
+
+**Send 50 USDC on MultiversX Devnet to:**
+```
+erd1mqa9wttlzwwdvwgk9dzsfdn79lv5raw0tfe9ynvn0dg92hpruvaqhhd2gx
+```
+
+**Steps to complete:**
+1. Set up a MultiversX wallet (xPortal or DeFi Wallet)
+2. Connect to MultiversX Devnet
+3. Get test USDC from the faucet
+4. Send exactly 50 USDC to the provided address
+5. Submit your transaction hash as proof
+
+**Resources:**
+- [MultiversX Devnet Faucet](https://r3d4.fr/multiversx/devnet-faucet)
+- [Setting up xPortal Wallet](https://xportal.com/)
+- [MultiversX Devnet Explorer](https://devnet-explorer.multiversx.com/)
+
 
 ## 🎯 Goals
 
@@ -53,6 +74,7 @@ Participants will form teams and develop a blockchain-based project.
 ## 📝 How to Participate
 
 - **Registration is now open!** Apply before September 1st, 2025.
+- **Complete the admission challenge** (send 50 USDC on MultiversX Devnet)
 - No prior blockchain experience is required, but basic programming knowledge is recommended.
 - Bring your laptop and curiosity!
 - **Commitment**: 6 hours per week (Tuesday & Thursday, 5-8 PM) + 24-hour hackathon weekend.
