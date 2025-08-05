@@ -8,20 +8,21 @@ Welcome to the official repository of the **Blockchain Summer School**, organize
 
 ## 📅 Timeline
 
-🗓 **Summer 2025** — 3-month program  
+🗓 **September 2025** — 3-week intensive program  
 📍 Location: University POLITEHNICA of Bucharest & Online (Hybrid Format)
 
-| Month       | Activities                                                                                  |
+| Week        | Activities                                                                                  |
 |-------------|----------------------------------------------------------------------------------------------|
-| **July**    | **Teaching activities**: 2–3 evening sessions per week to support working students           |
-| **August**  | **Development phase**: Students work on their projects with continuous support and guidance  |
-| **September**| **Project presentations**: Final demos, jury evaluation, awards, and closing ceremony        |
+| **Week 1**  | **Teaching Sessions**: Tuesday & Thursday, 5-8 PM - Blockchain fundamentals & smart contracts |
+| **Week 2**  | **Teaching Sessions**: Tuesday & Thursday, 5-8 PM - DeFi, dApps & advanced topics           |
+| **Week 3**  | **Teaching Sessions**: Tuesday & Thursday, 5-8 PM - Security, interoperability & project prep |
+| **Weekend** | **24-Hour Hackathon**: Final challenge, team building, and project development              |
 
-🎓 **Flexible Participation**:  
-Students are free to choose how they participate:
-- If you want to **learn** the fundamentals, join us in **July**.
-- If you already have experience and want to **build**, you can join starting **August**.
-- All participants are welcome to attend **September's** final event, presentations and awards.
+### 📝 Registration
+- **Registration Opens**: Today
+- **Registration Closes**: September 1st, 2025
+- **Program Starts**: September 2nd, 2025
+- **Program Ends**: September 21st, 2025
 
 
 ## 🎯 Goals
@@ -36,9 +37,9 @@ Students are free to choose how they participate:
 - Introduction to Blockchain & Distributed Ledgers
 - Cryptographic Primitives & Wallets
 - Smart Contracts and Virtual Machines
-- Bitcoin
-- Ethereum
-- MultiversX and WASM-based Smart Contracts
+- Blockchain v1: Bitcoin
+- Blockchain v2: Ethereum
+- Blockchain v3: MultiversX and WASM-based Smart Contracts
 - Decentralized Applications (dApps)
 - Blockchain Security & Privacy
 - Interoperability & Cross-Chain Communication
@@ -47,13 +48,22 @@ Students are free to choose how they participate:
 
 ## 🏆 Final Challenge
 
-Participants will form teams and develop a blockchain-based project. The best projects will be awarded prizes (TBA).
+Participants will form teams and develop a blockchain-based project.
 
 ## 📝 How to Participate
 
-- Stay tuned for the registration form (to be announced).
+- **Registration is now open!** Apply before September 1st, 2025.
 - No prior blockchain experience is required, but basic programming knowledge is recommended.
 - Bring your laptop and curiosity!
+- **Commitment**: 6 hours per week (Tuesday & Thursday, 5-8 PM) + 24-hour hackathon weekend.
+
+## 🚀 Getting Started
+
+New to blockchain development? Start here:
+- **[Complete Setup Guide](util/getting_started.md)** - Step-by-step environment setup
+- **[Prerequisites & Requirements](util/getting_started.md#-prerequisites)** - What you need to know
+- **[Learning Paths](util/getting_started.md#-learning-paths)** - Choose your track
+- **[Troubleshooting](util/getting_started.md#-troubleshooting)** - Common issues and solutions
 
 ## 🙌 Organizers
 
