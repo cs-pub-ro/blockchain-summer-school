@@ -34,14 +34,15 @@ erd1mqa9wttlzwwdvwgk9dzsfdn79lv5raw0tfe9ynvn0dg92hpruvaqhhd2gx
 2. Connect to MultiversX Devnet;
 3. Get test EGLD from the faucet;
 4. Swap those tokens to 50 USDC on xExchange Devnet DEX;
-4. Send exactly 50 USDC to the provided address;
-5. Submit your transaction hash as proof;
+5. Send exactly 50 USDC to the provided address;
+6. Submit your transaction hash through the [enrollment form](https://forms.office.com/r/gtRgGNtkcr).
 
 **Resources:**
 - [MultiversX Devnet Faucet](https://r3d4.fr/multiversx/devnet-faucet)
 - [Setting up xPortal Wallet](https://xportal.com/)
 - [MultiversX Devnet Explorer](https://devnet-explorer.multiversx.com/)
 - [xExchange Devnet DEX](https://devnet.xexchange.com)
+- **[Enrollment Form](https://forms.office.com/r/gtRgGNtkcr)** - Submit your application here
 
 
 ## 🎯 Goals
