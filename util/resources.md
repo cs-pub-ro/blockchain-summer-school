@@ -1,11 +1,5 @@
 # Resources and Useful Links
 
-## List of Resources:
-
-- [GitHub Repository](https://github.com/CostinCarabas/blockchain-protocols-and-distributed-applications)
-- [Moodle Class](https://curs.upb.ro/2024/course/view.php?id=1947) (used for homework submissions, quizzes, announcements, etc.)
-- [Planning](https://docs.google.com/spreadsheets/d/e/2PACX-1vSbaEavaQE8WgMM5QKNRFrrdETS6lYL6APvnAcAvIwYaMlpiL7hBJZqWW0q7wgWpu9LbCa2RUlH1qrB/pubhtml?gid=0&single=true)
-
 ## Books and interesting reading materials
 
 - [Foundations of Distributed Consensus and Blockchains](http://elaineshi.com/docs/blockchain-book.pdf) - must read book for blockchain protocol enthusiasts;
