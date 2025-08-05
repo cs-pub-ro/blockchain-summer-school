@@ -124,51 +124,6 @@ npx hardhat --version
   - GitLens
   - Live Share (for collaboration)
 
-## 🎯 Learning Paths
-
-### 🟢 Beginner Track (0-2 months experience)
-**Estimated Time**: 4-6 hours/week
-1. **Week 1-2**: Introduction to Blockchain & Setup
-   - Complete environment setup
-   - Read: [Introduction Chapter](../chapters/introduction/)
-   - Practice: Create your first wallet
-
-2. **Week 3-4**: Smart Contracts Basics
-   - Read: [Smart Contracts Chapter](../chapters/smart-contracts/)
-   - Practice: Deploy a simple "Hello World" contract
-
-3. **Week 5-6**: dApps & Tokens
-   - Read: [dApps Chapter](../chapters/dApps/) & [Tokens Chapter](../chapters/tokens/)
-   - Practice: Create a simple token
-
-### 🟡 Intermediate Track (2-6 months experience)
-**Estimated Time**: 6-8 hours/week
-1. **Week 1-2**: Advanced Smart Contracts
-   - Read: [Security Chapter](../chapters/security/)
-   - Practice: Build a secure voting system
-
-2. **Week 3-4**: DeFi & Money Protocols
-   - Read: [Money Chapter](../chapters/money/)
-   - Practice: Implement a simple DEX
-
-3. **Week 5-6**: Cross-Chain & Interoperability
-   - Read: [Composability Chapter](../chapters/composability/)
-   - Practice: Build a cross-chain bridge
-
-### 🔴 Advanced Track (6+ months experience)
-**Estimated Time**: 8-12 hours/week
-1. **Week 1-2**: Protocol Development
-   - Read: [Protocol Chapter](../chapters/protocol/)
-   - Practice: Implement consensus mechanisms
-
-2. **Week 3-4**: Security & CTF
-   - Read: [Security Chapter](../chapters/security/)
-   - Practice: Solve CTF challenges
-
-3. **Week 5-6**: Research & Innovation
-   - Read: [VM Chapter](../chapters/vm/)
-   - Practice: Contribute to open-source projects
-
 ## 📚 First Steps
 
 ### 1. Clone the Repository
@@ -178,7 +133,7 @@ cd blockchain-summer-school
 ```
 
 ### 2. Join the Community
-- **Discord**: [Join our Discord server](https://discord.gg/blockchain-summer-school)
+- **Discord**: [Join our Discord server](https://discord.gg/ZdENxFdA)
 - **GitHub Discussions**: [Ask questions here](https://github.com/cs-pub-ro/blockchain-summer-school/discussions)
 - **Office Hours**: Check the schedule for live Q&A sessions
 
@@ -276,16 +231,6 @@ When asking for help, please include:
 - **Version Control**: Use Git from day one
 - **Documentation**: Write clear README files for your projects
 - **Testing**: Always test your smart contracts thoroughly
-
-## 🏆 Next Steps
-
-Once you've completed the setup:
-
-1. **Choose Your Track**: Decide which learning path fits your experience level
-2. **Set Goals**: Define what you want to achieve by the end of the program
-3. **Join a Team**: Find teammates for the final project (optional)
-4. **Stay Updated**: Follow blockchain news and developments
-5. **Build Portfolio**: Start building projects for your portfolio
 
 ---
 

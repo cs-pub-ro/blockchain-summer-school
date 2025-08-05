@@ -56,10 +56,9 @@ Participants will form teams and develop a blockchain-based project.
 ## 🚀 Getting Started
 
 New to blockchain development? Start here:
-- **[Complete Setup Guide](utils/getting_started.md)** - Step-by-step environment setup
-- **[Prerequisites & Requirements](utils/getting_started.md#-prerequisites)** - What you need to know
-- **[Learning Paths](utils/getting_started.md#-learning-paths)** - Choose your track
-- **[Troubleshooting](utils/getting_started.md#-troubleshooting)** - Common issues and solutions
+- **[Complete Setup Guide](util/getting_started.md)** - Step-by-step environment setup
+- **[Prerequisites & Requirements](util/getting_started.md#-prerequisites)** - What you need to know
+- **[Troubleshooting](util/getting_started.md#-troubleshooting)** - Common issues and solutions
 
 ## 🙌 Organizers
 
