@@ -62,9 +62,9 @@ docusaurus:
           # - Tokens: chapters/tokens/lab/content/fungible.md
           # - dApps: chapters/dApps/lab/content/dApp.md
       - Assignments:
+          - Project: assignments/project.md
           # - Assignment 1: assignments/assignment1.md
           # - Assignment 2: assignments/assignment2.md
-          # - Project: assignments/project.md
           # - Blockchain Research Assignment: assignments/blockchain_research_assignment.md
           # - Scientific Research Assignment: assignments/scientific_research_assignment.md
       # - Grading: util/grading.md
