@@ -48,7 +48,6 @@ docusaurus:
     structure:
       - Introduction: chapters/README.md
       - Lectures:
-        - TODO:
         # - Introduction: /build/embed_reveal/Introduction/Introduction.mdx
             # - Blockchain Protocols: Blockchain-Protocols/Blockchain-Protocols.mdx
             # - Case Study: Case-Study/Case-Study.mdx
@@ -59,7 +58,6 @@ docusaurus:
             # - Scaling dApps: Scaling-dApps/Scaling-dApps.mdx
             # - Composability: Composability/Composability.mdx
       - Practical Sessions:
-          - TODO:
           # - Env Setup:
           #     path: chapters/introduction/lab/content/setup
           #     subsections:
@@ -172,7 +170,7 @@ docusaurus:
           # - Blockchain Research Assignment: assignments/blockchain_research_assignment.md
           # - Scientific Research Assignment: assignments/scientific_research_assignment.md
       # - Grading: util/grading.md
-      - Getting Started: GETTING_STARTED.md
+      - Getting Started: utils/getting_started.md
       - Resources: util/resources.md
     # static_assets:
     #   - slides/Compute: /build/make_assets/content/chapters/introduction/lecture/_site
