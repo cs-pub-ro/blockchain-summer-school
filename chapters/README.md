@@ -22,7 +22,7 @@ Welcome to the official repository of the **Blockchain Summer School**, organize
 - **Registration Closes**: September 1st, 2025
 - **Program Starts**: September 2nd, 2025
 - **Program Ends**: September 14th, 2025
-- 
+
 ### 🎯 Admission Challenge
 
 To demonstrate your commitment and basic blockchain knowledge, complete this challenge:
