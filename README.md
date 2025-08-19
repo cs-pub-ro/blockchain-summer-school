@@ -9,16 +9,15 @@ Welcome to the official repository of the **Blockchain Summer School**, organize
 
 | Week        | Activities                                                                                  |
 |-------------|----------------------------------------------------------------------------------------------|
-| **Week 1**  | **Teaching Sessions**: Tuesday & Thursday, 5-8 PM - Blockchain fundamentals & smart contracts |
-| **Week 2**  | **Teaching Sessions**: Tuesday & Thursday, 5-8 PM - DeFi, dApps & advanced topics           |
-| **Week 3**  | **Teaching Sessions**: Tuesday & Thursday, 5-8 PM - Security, interoperability & project prep |
+| **Week 1**  | **Teaching Sessions**: Tuesday, Wednesday & Thursday, 5-8 PM - Blockchain fundamentals & smart contracts |
+| **Week 2**  | **Teaching Sessions**: Tuesday, Wednesday & Thursday, 5-8 PM - DeFi, dApps & advanced topics           |
 | **Weekend** | **24-Hour Hackathon**: Final challenge, team building, and project development              |
 
 ### 📝 Registration
 - **Registration Opens**: Today
 - **Registration Closes**: September 1st, 2025
 - **Program Starts**: September 2nd, 2025
-- **Program Ends**: September 21st, 2025
+- **Program Ends**: September 14th, 2025
 
 ### 🎯 Admission Challenge
 
